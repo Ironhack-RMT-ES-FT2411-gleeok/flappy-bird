@@ -106,7 +106,7 @@ function checkCollisionPollitoTuberias() {
       // Collision detected!
       console.log("el pollito se ha estampado contra una tuberia")
 
-      gameOver()
+      gameOver() 
 
       // ejemplo de cambio de imagen
       // pollitoObj.node.src = "./images/explosion.png"
